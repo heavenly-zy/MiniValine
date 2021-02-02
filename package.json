@@ -60,6 +60,7 @@
     "blueimp-md5": "^2.17.0",
     "css-loader": "^4.0.0",
     "fibers": "^5.0.0",
+    "highlight.js": "^10.5.0",
     "leancloud-storage": "^4.6.1",
     "snyk": "^1.348.1",
     "source-map": "^0.7.0",
